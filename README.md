@@ -1,4 +1,4 @@
-# Veggie Vend
+# Vend-a-Veg
 
 🛠 🛠 🛠
 
